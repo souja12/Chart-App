@@ -1,0 +1,15 @@
+.main {
+  padding-top: 90px;
+}
+
+h1 {
+  color: red;
+}
+.btn {
+  width: 50%;
+  padding-top: 40px;
+}
+.btn button {
+  width: 60%;
+  height: 40%;
+}
